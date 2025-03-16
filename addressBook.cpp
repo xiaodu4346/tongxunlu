@@ -2,16 +2,16 @@
 using namespace std;
 #include<string>;
 #define Max 1000
-//´´½¨²Ëµ¥
+//åˆ›å»ºèœå•
 void showmeau()
 {
 
-	cout << "1.Ìí¼ÓÁªÏµÈË" << endl;
-	cout << "1.É¾³ıÁªÏµÈË" << endl; 
-	cout << "1.²éÕÒÁªÏµÈË" << endl; 
-	cout << "1.ĞŞ¸ÄÁªÏµÈË" << endl;
-	cout << "1.Çå¿ÕÁªÏµÈË" << endl;
-	cout << "1.ÍË³öÍ¨Ñ¶Â¼" << endl;
+	cout << "1.æ·»åŠ è”ç³»äºº" << endl;
+	cout << "1.åˆ é™¤è”ç³»äºº" << endl; 
+	cout << "1.æŸ¥æ‰¾è”ç³»äºº" << endl; 
+	cout << "1.ä¿®æ”¹è”ç³»äºº" << endl;
+	cout << "1.æ¸…ç©ºè”ç³»äºº" << endl;
+	cout << "1.é€€å‡ºé€šè®¯å½•" << endl;
 }
 struct person
 {
