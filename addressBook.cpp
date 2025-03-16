@@ -5,13 +5,12 @@ using namespace std;
 //创建菜单
 void showmeau()
 {
-
 	cout << "1.添加联系人" << endl;
-	cout << "1.删除联系人" << endl; 
-	cout << "1.查找联系人" << endl; 
-	cout << "1.修改联系人" << endl;
-	cout << "1.清空联系人" << endl;
-	cout << "1.退出通讯录" << endl;
+	cout << "2.删除联系人" << endl; 
+	cout << "3.查找联系人" << endl; 
+	cout << "4.修改联系人" << endl;
+	cout << "5.清空联系人" << endl;
+	cout << "6.退出通讯录" << endl;
 }
 struct person
 {
